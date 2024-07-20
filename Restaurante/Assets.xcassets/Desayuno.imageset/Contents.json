@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "top-view-tasty-porridge-with-raspberries-light-surface.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "top-view-tasty-porridge-with-raspberries-light-surface 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "top-view-tasty-porridge-with-raspberries-light-surface 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

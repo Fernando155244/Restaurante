@@ -1,0 +1,54 @@
+{
+  "Usuarios":[
+  {
+    "Nombre": "Peggy Veum",
+    "Usuario": "Reynold_Kertzmann",
+    "Contraseña": "efwGbSw0NpMNpLy",
+    "Correo": "Junius.Von@hotmail.com",
+    "Telefono": "+52-5561105160",
+    "Genero": "male",
+    "Ocupacion": "Future Accountability Analyst",
+    "Edad": 58
+  },
+  {
+    "Nombre": "Tyrone Hirthe",
+    "Usuario": "Dejuan.Grady56",
+    "Contraseña": "AnuPw_IUF31u8Hp",
+    "Correo": "Angelo_Price31@yahoo.com",
+    "Telefono": "+52-5568664094",
+    "Genero": "male",
+    "Ocupacion": "Dynamic Identity Assistant",
+    "Edad": 51
+  },
+  {
+    "Nombre": "Victor Brown I",
+    "Usuario": "Alvis5",
+    "Contraseña": "uFRO_x_UO43Wwfn",
+    "Correo": "Felix85@yahoo.com",
+    "Telefono": "+52-5562417633",
+    "Genero": "female",
+    "Ocupacion": "Human Implementation Technician",
+    "Edad": 24
+  },
+  {
+    "Nombre": "Roxanne Adams",
+    "Usuario": "Ethelyn96",
+    "Contraseña": "v2b4hQIJ34ZcpQ7",
+    "Correo": "Josiane_Dickinson8@hotmail.com",
+    "Telefono": "+52-5584746076",
+    "Genero": "female",
+    "Ocupacion": "Senior Optimization Manager",
+    "Edad": 55
+  },
+  {
+    "Nombre": "Dr. Saul Johnson",
+    "Usuario": "Moriah.Lowe",
+    "Contraseña": "l5KckNuTNYXPlPk",
+    "Correo": "Jake.Hilpert59@hotmail.com",
+    "Telefono": "+52-5570695772",
+    "Genero": "female",
+    "Ocupacion": "Customer Communications Developer",
+    "Edad": 19
+  }
+]
+}

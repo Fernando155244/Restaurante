@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "cheese-plate-with-delicious-tilsiter-cheese-snacks.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "cheese-plate-with-delicious-tilsiter-cheese-snacks 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "cheese-plate-with-delicious-tilsiter-cheese-snacks 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
